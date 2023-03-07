@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/bin/Debug/net6.0/Task2
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/bin/Debug/net6.0/Task2.dll
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.dll
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Семинар1/HomeWorkC/Task2/obj/Debug/net6.0/ref/Task2.dll
